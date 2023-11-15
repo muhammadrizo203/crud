@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div{
+    width: 100%;
+    height: 80vh;
+    background-color: aqua;
+}
+.div1{
+    width: 100%;
+    height: 70vh;
+    background-color: blue;
+    margin-top: 30px;
+    display: inline-flex;
+    justify-content: center;
+}
+.div2{
+    width: 60%;
+    height: 70vh;
+    background-color: brown;
+}
+.div3{
+
+    width: 35%;
+    height: 70vh;
+    background-color: rgb(238, 26, 245);
+}
